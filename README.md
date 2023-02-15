@@ -1,7 +1,1 @@
-# Hotel Database Analytics Report
-Background:
-The Managing Director of the organization has tasked the Data Analyst with the responsibility of extracting insights and providing recommendations using the data obtained from the hotel system (bookings, food orders, menu, requests and rooms) database.
-
-Requirements:
-a. Using the hotel system database, what are your findings and recommendations for the hotel business.
-
+The Managing Director of the organization tasked me with the responsibility of utilizing the hotel system database to extract valuable insights and provide recommendations. The objective is to analyze the data on bookings, food orders, menu, requests and rooms tables, and develop actionable insights to optimize the hotel's performance. I am requested to perform data analytics techniques to identify patterns and trends that will help increase revenue, reduce costs, and enhance customer experience. The recommendations I provide must be based on the insights derived from the data and should be actionable and measurable. The ultimate goal is to improve the hotel's profitability and competitive advantage through data-driven decision-making.
